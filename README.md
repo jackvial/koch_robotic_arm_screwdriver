@@ -1,18 +1,21 @@
 # Koch Robotic Arm Screwdriver
 
-A screwdriver tool for the Koch robotic arm.
+A screwdriver attachment for the Koch robotic arm.
 
 ![Screwdriver](media/koch_with_screwdriver.jpg)
 
-[Video Demo](https://www.youtube.com/shorts/0c0qmF34xng)
+## Video Demo
+[Watch the demo on YouTube](https://www.youtube.com/shorts/0c0qmF34xng)
 
-## Bill Of Materials
-- 2mm height 6mm diameter magnets x 5. $5.99 for 50 on [Amazon](https://www.amazon.com/dp/B079FLRQJP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+## Bill of Materials
+* 6 mm diameter × 2 mm height neodymium magnets — 5 pcs  
+  *$5.99 for 50 on [Amazon](https://www.amazon.com/dp/B079FLRQJP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)*
 
-# Instructions
-- Position both parts on the plate
-    - `stl/modified_follower_gripper_static.stl`
-    - `stl/koch_screwdriver_chuck.stl`
-- Use your slicer (I used the Bamboo Labs Studio with a Bamboo Labs X1-Carbon) to add a pause point at the top of the magnet cavity. See https://www.youtube.com/watch?v=SBewgnA0Z2s
-- When the print pauses, insert a stack of 5 magnets into the cavity
-- Resume printing
+## Instructions
+1. Position both parts on the print bed:  
+   • `stl/modified_follower_gripper_static.stl`  
+   • `stl/koch_screwdriver_chuck.stl`
+2. In your slicer (e.g. Bamboo Studio for the X1-Carbon) add a pause at the top of the magnet cavity.  
+   See this tutorial: https://www.youtube.com/watch?v=SBewgnA0Z2s
+3. When the print pauses, insert a stack of 5 magnets into the cavity.
+4. Resume printing.
