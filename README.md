@@ -2,6 +2,10 @@
 
 A screwdriver tool for the Koch robotic arm.
 
+![Screwdriver](media/koch_with_screwdriver.jpg)
+
+[Video Demo](https://www.youtube.com/shorts/0c0qmF34xng)
+
 ## Bill Of Materials
 - 2mm height 6mm diameter magnets x 5. $5.99 for 50 on [Amazon](https://www.amazon.com/dp/B079FLRQJP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
