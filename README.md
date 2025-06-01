@@ -4,6 +4,8 @@ A screwdriver attachment for the Koch robotic arm.
 
 ![Screwdriver](media/koch_with_screwdriver.jpg)
 
+![Slicer pause point](media/slicer_pause_point.png)
+
 ## Video Demo
 [Watch the demo on YouTube](https://www.youtube.com/shorts/0c0qmF34xng)
 
