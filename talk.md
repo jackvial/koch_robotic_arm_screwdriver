@@ -20,6 +20,9 @@ Slice to generate the G-code for the printer.
 # Printing 
 Print the model with the printer.
 
+# Prerecorded Screwdrive Demo 
+- https://www.youtube.com/shorts/X2yaPXJ9tkE
+
 # Next Time
 Vision language action (VLA) models used in robotics like SmolVLA are very similar to VLMs used for Browser Use and the advancements in robotics will feedback into models like Gemini 2.5 Pro and make them even better at agentic reasoning tasks like browser automation.
 
