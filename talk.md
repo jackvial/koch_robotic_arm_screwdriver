@@ -8,6 +8,9 @@ Cover creating basic shapes with OpenSCAD.
 # Difference
 Using the difference function to make holes in shapes.
 
+# Screwdriver Chuck
+Describe the screwdriver chuck and walk through the code.
+
 # Exporting To STL
 Render the model and export to STL.
 
