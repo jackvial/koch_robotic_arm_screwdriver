@@ -1,8 +1,8 @@
 # Koch Robotic Arm Screwdriver
 
-A screwdriver attachment for the Koch robotic arm.
+A screwdriver attachment and camera mount for the Koch robotic arm.
 
-![Screwdriver](media/koch_with_screwdriver.jpg)
+![Screwdriver with camera](media/screwdriver_with_camera.jpg)
 
 ![Slicer pause point](media/slicer_pause_point.png)
 
@@ -15,7 +15,7 @@ A screwdriver attachment for the Koch robotic arm.
 
 ## Instructions
 1. Position both parts on the print bed:  
-   • `stl/modified_follower_gripper_static.stl`  
+   • `stl/screwdriver_servo_holder_with_camera_mount_v1.2.stl`  
    • `stl/koch_screwdriver_chuck.stl`
 2. In your slicer (e.g. Bamboo Studio for the X1-Carbon) add a pause at the top of the magnet cavity.  
    See this tutorial: https://www.youtube.com/watch?v=SBewgnA0Z2s
