@@ -10,8 +10,10 @@ A screwdriver attachment and camera mount for the Koch robotic arm.
 [Watch the demo on YouTube](https://www.youtube.com/shorts/0c0qmF34xng)
 
 ## Bill of Materials
+* SVPRO 5MP 30FPS USB Camera 
+    * $53.99 on [Amazon](https://www.amazon.com/dp/B0D8SS2KNZ?ref_=ppx_hzod_image_dt_b_fed_asin_title_0_0&th=1)
 * 6 mm diameter × 2 mm height neodymium magnets — 5 pcs  
-  *$5.99 for 50 on [Amazon](https://www.amazon.com/dp/B079FLRQJP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)*
+    * $5.99 for 50 on [Amazon](https://www.amazon.com/dp/B079FLRQJP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)*
 
 ## Instructions
 1. Position both parts on the print bed:  
