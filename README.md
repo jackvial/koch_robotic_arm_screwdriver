@@ -14,6 +14,10 @@ A screwdriver attachment and camera mount for the Koch robotic arm.
     * $53.99 on [Amazon](https://www.amazon.com/dp/B0D8SS2KNZ?ref_=ppx_hzod_image_dt_b_fed_asin_title_0_0&th=1)
 * 6 mm diameter × 2 mm height neodymium magnets — 5 pcs  
     * $5.99 for 50 on [Amazon](https://www.amazon.com/dp/B079FLRQJP?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)*
+* M2 8mm screws - I used this set
+    * [Amazon](https://a.co/d/1YjSOn4)
+* Precision screwdriver with standard 4mm hex shank bits - I am using the bits from this screwdriver
+    * [Amazon](https://a.co/d/cEVycXf)
 
 ## Instructions
 1. Position both parts on the print bed:  
