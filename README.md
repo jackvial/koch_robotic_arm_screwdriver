@@ -9,7 +9,7 @@ A screwdriver attachment and camera mount for the Koch robotic arm.
 ## Video Demo
 [Watch the demo on YouTube](https://www.youtube.com/shorts/0c0qmF34xng)
 
-## Bill of Materials
+## Screwdriver Bill of Materials
 * SVPRO 5MP 30FPS USB Camera 
     * $53.99 on [Amazon](https://www.amazon.com/dp/B0D8SS2KNZ?ref_=ppx_hzod_image_dt_b_fed_asin_title_0_0&th=1)
 * 6 mm diameter × 2 mm height neodymium magnets — 5 pcs  
@@ -19,11 +19,22 @@ A screwdriver attachment and camera mount for the Koch robotic arm.
 * Precision screwdriver with standard 4mm hex shank bits - I am using the bits from this screwdriver
     * [Amazon](https://a.co/d/cEVycXf)
 
-## Instructions
+## Screwdriver Instructions
 1. Position both parts on the print bed:  
    • `stl/screwdriver_servo_holder_with_camera_mount_v1.2.stl`  
    • `stl/koch_screwdriver_chuck.stl`
 2. In your slicer (e.g. Bamboo Studio for the X1-Carbon) add a pause at the top of the magnet cavity.  
    See this tutorial: https://www.youtube.com/watch?v=SBewgnA0Z2s
 3. When the print pauses, insert a stack of 5 magnets into the cavity.
+4. Resume printing.
+
+## Test Bed Bill of Materials
+- 3 M4 hex nuts. I used the ones from this set on [Amazon](https://www.amazon.com/dp/B0CNY3BSXX?ref_=ppx_hzod_title_dt_b_fed_asin_title_0_0)
+- 1 M4 8mm height flat head philips screw
+
+## Test Bed Instructions
+1. Position both parts on the print bed:  
+   • `stl/test_bed.stl`
+2. In the slicer, add a pause at the top of the nut cavities
+3. When the print pauses, insert the 3 M4 hex nuts into the nut cavities.
 4. Resume printing.
